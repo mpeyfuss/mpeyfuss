@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mpeyfuss
+- 👀 I’m interested in Web 3.0 & blockchain technology. Especially interested in linking real world data with the blockchain to create hybrid dApps.
+- 🌱 I’m currently learning HTML/CSS/JS & WebGL via coursework and implementation.
+- :fire: I have experience in Python scripting, automation, and multi-threaded application development.
+- :camera: In my free time I work with my best friend to create advanced photography NFTs on the Ethereum blockchain... https://opensea.io/collection/transient-gallery
+- :computer: I'm comfortable with Python, Matlab, Git, Linux
+- :keyboard: I'm familiar with Javascript, Solidity, HTML/CSS, C, Java
