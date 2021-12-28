@@ -2,6 +2,6 @@
 - 👀 I’m interested in Web 3.0 & blockchain technology. Especially interested in linking real world data with the blockchain to create hybrid dApps.
 - 🌱 I’m currently learning HTML/CSS/JS & WebGL via coursework and real-world implementation.
 - :fire: I have experience in Python scripting, automation, multi-threaded application, and Ethereum dApp development.
-- :camera: In my free time I work with my best friend to create advanced photography NFTs on the Ethereum blockchain... https://opensea.io/collection/transient-gallery
+- :camera: In my free time I work with my best friend on our Web3 company, Transient Labs https://opensea.io/collection/transient-gallery
 - :computer: I'm comfortable with Python, Javascript, Solidity, Git, Linux
 - :keyboard: I'm familiar with HTML/CSS, C, Java
