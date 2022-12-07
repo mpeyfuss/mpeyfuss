@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @mpeyfuss
-- 👀 Helping built Web3 one idea at a time
-- :fire: I have experience in scripting, automation, multi-threaded application, and Ethereum dApp development with JavaScript and Python.
-- :camera: In my free time I work with my best friend on our Web3 company, Transient Labs
-- :computer: I'm comfortable with Python, Javascript, Solidity, Git, Linux
+- :art: I like art, blockchain, and being a complete degen
+- :fire: Let's Build Different
