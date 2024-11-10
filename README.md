@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @mpeyfuss
-- :art: I like art, blockchain, and being a complete degen
-- :fire: Let's Build Different
+- 🧰 I'm an engineer building tools for creators with the blockchain
